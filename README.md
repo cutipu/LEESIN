@@ -1,5 +1,5 @@
 <div align=center>
-<p align="center"><img src="https://www.linkpicture.com/q/photo_2022-04-28_23-29-16.jpg" width="800px" height="200px" alt="ddos"></p>
+<p align="center"><img src="https://www.linkpicture.com/q/photo_2022-04-28_23-29-16.jpg" width="400px" height="100px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/LEESIN?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/LEESIN?color=%239999FF&style=for-the-badge"/> &nbsp;
